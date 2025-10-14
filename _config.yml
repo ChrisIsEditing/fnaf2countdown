@@ -5,10 +5,11 @@ description: "This time, there'll be no second chances. See you Dec 5th!" #Requi
 externalLink: "http://fnaf2.chribs.xyz" #Required. link to the main event page. this could be a webpage, a facebook event, an eventbrite page, where ever the main webpage is for your event
 url: "" #(Optional) the full URL for this countdown page. This is neccesary for facebook share previews
 facebookEventLink: #(Optional) if you have a facebook event, put the link here and we'll add a "RSVP on facebook" link at the bottom.
-hashtag: "" #(Optional) hashtag for the event, example "#hashtag". must be in quotes.
-colors: #(Optional)
-  background: "#1a1a1a" 
-  primary: "#8b0000" 
-  secondary: "#4a0e4e" 
-  textcolor: "#d4d4d4" 
-fontfamily: "'Creepster', 'Courier New', monospace" 
+hashtag: "#fnaf2"
+colors:
+  background: "#1a1a1a"
+  primary: "#8b0000"
+  secondary: "#4a0e4e"
+  textColor: "#d4d4d4"
+fontFamily: "'Creepster', 'Courier New', monospace"
+
