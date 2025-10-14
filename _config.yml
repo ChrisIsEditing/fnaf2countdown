@@ -7,9 +7,9 @@ url: "" #(Optional) the full URL for this countdown page. This is neccesary for 
 facebookEventLink: #(Optional) if you have a facebook event, put the link here and we'll add a "RSVP on facebook" link at the bottom.
 hashtag: "#fnaf2"
 colors:
-  background: "#1a1a1a"
-  primary: "#8b0000"
-  secondary: "#4a0e4e"
-  textColor: "#d4d4d4"
+  background: "#21003a"
+  primary: "#7f0a00"
+  secondary: "#3a04dd"
+  textColor: "#ffe0b2"
 fontFamily: "'Creepster', 'Courier New', monospace"
 
